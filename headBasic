@@ -1,4 +1,3 @@
-
 <html lang="ko">
 <head>
  <meta charset="utf-8"/>
@@ -21,4 +20,3 @@
   <p id="user_id_2">마르고 닳도록</p>
   <script>myFunction();</script>   <!--자바스크립트 호출-->
 </body></html>
-
