@@ -32,7 +32,7 @@
 	
 	<body>
 		<h1>숙제 인덱스</h1>
-		<h3 id="name">20151652 신범식</h2>
+		<h3 id="name">20161415 민정호</h3>
 		<table id="nav">
 			
 			<tbody>	
